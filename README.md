@@ -8,11 +8,11 @@ A simple database project under Udacity Full-Stack Websdevelopment Nanodegree pr
 1. Download Files
 
 2. Start Vagrant
-    2.1 Open Terminal
-    2.2 cd to vagrant folder
-    2.3 Run Vagrant with 'vagrant up'
-    2.4 Log into VM with 'vagrant ssh'
-    2.5 cd /vagrant/tournament
-    2.6 Run PostreSQL with 'psql tournament'
-    2.7 Type \q to quit out of PSQL
-    2.7 Run the tests with 'python tournment_test.py'
+   <br />2.1 Open Terminal
+   <br />2.2 cd to vagrant folder
+   <br />2.3 Run Vagrant with 'vagrant up'
+   <br />2.4 Log into VM with 'vagrant ssh'
+   <br />2.5 cd /vagrant/tournament
+   <br />2.6 Run PostreSQL with 'psql tournament'
+   <br />2.7 Type \q to quit out of PSQL
+   <br />2.7 Run the tests with 'python tournment_test.py'
